@@ -3,3 +3,5 @@ uploading code for projects
 Dragon fruit
 hello
 I like music
+Always be happy
+Artificial intelligence
